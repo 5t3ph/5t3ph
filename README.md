@@ -1,4 +1,4 @@
-👋🏻 **Hi! I'm Stephanie Eckles, aka [5t3ph](https://twitter.com/5t3ph)**, and I create front-end learning and development resources with an emphasis on CSS and Eleventy. I'm the creator of [ModernCSS.dev](https://moderncss.dev), [SmolCSS.dev](https://smolcss.dev), [StyleStage.dev](https://stylestage.dev), [11ty.Rocks ](https://11ty.rocks) and more! A list of my additional projects is available in [my portfolio](https://thinkdobecreate.com).
+👋🏻 **Hi! I'm Stephanie Eckles, aka [5t3ph](https://twitter.com/5t3ph)**, and I create front-end learning and development resources with an emphasis on CSS, Accessibility, and Eleventy. I'm the creator of [ModernCSS.dev](https://moderncss.dev), [SmolCSS.dev](https://smolcss.dev), [StyleStage.dev](https://stylestage.dev), [11ty.Rocks ](https://11ty.rocks) and more! A list of my additional projects is available in [my portfolio](https://thinkdobecreate.com).
 
 I enjoy sharing my experience as an:
 - [author](https://thinkdobecreate.com/#writing)
